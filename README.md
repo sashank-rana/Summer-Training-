@@ -35,11 +35,3 @@ The repository is organized into distinct modules, tracking progression from dat
 * **Tools & Platforms:** Jupyter Notebook, Power BI, GitHub
 
 ---
-
-## 🚀 Getting Started
-
-To explore these projects locally, follow these simple steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sashank-rana/Summer-Training-.git](https://github.com/sashank-rana/Summer-Training-.git)
