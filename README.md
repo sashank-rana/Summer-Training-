@@ -1,4 +1,4 @@
-# Summer Training: Data Science & Machine Learning
+# Summer Training: Data Science 
 
 Welcome to my **Summer Training** repository! This repository serves as a centralized hub for all the coursework, practical implementations, and projects completed during my intensive training program in Data Science and Machine Learning. 
 
